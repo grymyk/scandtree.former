@@ -2,13 +2,7 @@ import './footer.scss';
 import Footer from './footer';
 
 const sectionFooter = new Footer({
-	socioNets: [{
-		href: 'https://www.facebook.com/scandtree',
-		label: 'facebook'
-	}, {
-		href: 'https://www.instagram.com/scandtree/',
-		label: 'instagram'
-	}],
+	email: 'myko@grymyk.com',
 	year: '2020',
 });
 

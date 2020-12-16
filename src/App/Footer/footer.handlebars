@@ -1,16 +1,5 @@
 <div class="content">
-    <ul class="social_networks">
-        {{#each socioNets}}
-            <li>
-                <a target="_blank" href="{{href}}"
-                    class="icon {{label}}" rel="noopener">
-                    <span class="label">{{label}}</span>
-                </a>
-            </li>
-        {{/each}}
-    </ul>
-    <ul class="copyright">
-        <li>&copy;2015&mdash;{{year}}</li>
-        <li>Scandinavian Tree</li>
-    </ul>
+    <div className="email">
+        <a href="mailto:{{email}}">{{email}}</a>
+    </div>
 </div>
