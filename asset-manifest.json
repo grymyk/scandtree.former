@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scandtree.former/static/css/main.e5469172.css",
+    "main.js": "/scandtree.former/static/js/main.200bc43b.js",
+    "static/js/787.aeb39de0.chunk.js": "/scandtree.former/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/scandtree.former/index.html",
+    "main.e5469172.css.map": "/scandtree.former/static/css/main.e5469172.css.map",
+    "main.200bc43b.js.map": "/scandtree.former/static/js/main.200bc43b.js.map",
+    "787.aeb39de0.chunk.js.map": "/scandtree.former/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5469172.css",
+    "static/js/main.200bc43b.js"
+  ]
+}
