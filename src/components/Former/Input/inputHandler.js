@@ -267,7 +267,7 @@ export default function InHandler() {
     function handleClick(event) {
         target = event.target;
 
-        // console.log('event.target: ', event.target);
+        console.log('event.target: ', event.target);
 
         let action = target.getAttribute('data-action');
 

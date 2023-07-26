@@ -19,13 +19,10 @@ const reset_lock_cls = {
 
 function ResetBtn({ onClick,  isReset}) {
     const handleClick = () => {
-        console.log('reset')
         onClick(false)
     }
 
     let cls = reset_lock_cls;
-
-    console.log(isReset)
 
     if (isReset) {
         cls = reset_cls;
